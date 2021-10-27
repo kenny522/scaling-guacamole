@@ -16,7 +16,7 @@ The purpose of the application is to have an easy-to-use interface for taking no
 
 Here is the deployed app [link]( https://obscure-sands-44087.herokuapp.com/).
 
-Here is a demo of the app [link](https://user-images.githubusercontent.com/84942098/139150024-21664bab-bbaa-4c15-9e5b-c1492e5c818f.mov).
+Here is a demo of the app https://user-images.githubusercontent.com/84942098/139150024-21664bab-bbaa-4c15-9e5b-c1492e5c818f.mov
 
 
 <img width="2560" alt="Screen Shot 2021-10-27 at 1 56 30 PM" src="https://user-images.githubusercontent.com/84942098/139152884-789da0a3-ddd6-4a9a-a2f6-a46a6b18c77c.png">
